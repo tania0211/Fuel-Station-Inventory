@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from flask import Flask, render_template, request, redirect, url_for, session
 import fuel_manager
 import json
@@ -89,7 +89,6 @@ def update_fuel():
 
 if __name__ == '__main__':
     app.run(debug=True)
-=======
 from flask import Flask, render_template, request, redirect, url_for, session
 import fuel_manager
 import json
@@ -180,4 +179,4 @@ def update_fuel():
 
 if __name__ == '__main__':
     app.run(debug=True)
->>>>>>> e56aad4d530c64130dce55202669a57242cbb318
+
