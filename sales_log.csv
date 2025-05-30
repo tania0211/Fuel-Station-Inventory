@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Date,Fuel Type,Quantity Sold (Liters)
 2025-05-28 19:51:03,Diesel,20
 2025-05-28 19:51:07,Diesel,20
@@ -5,3 +6,12 @@ Date,Fuel Type,Quantity Sold (Liters)
 2025-05-28 22:19:24,Diesel,20.0
 2025-05-28 22:20:13,Petrol,10.0
 2025-05-29 20:07:23,Diesel,2.0
+=======
+Date,Fuel Type,Quantity Sold (Liters)
+2025-05-28 19:51:03,Diesel,20
+2025-05-28 19:51:07,Diesel,20
+2025-05-28 20:06:27,Diesel,20
+2025-05-28 22:19:24,Diesel,20.0
+2025-05-28 22:20:13,Petrol,10.0
+2025-05-29 20:07:23,Diesel,2.0
+>>>>>>> e56aad4d530c64130dce55202669a57242cbb318
